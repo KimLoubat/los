@@ -1,0 +1,56 @@
+.fullCol{
+    height:  97vh;
+}
+
+.actionJ{
+    margin-top: 50%;
+}
+
+.piocheJ{
+     margin-top: 15%;
+     margin-bottom: 10%;
+     margin-left: 25%;
+     height: 25%;
+     width: 40%;
+ }
+
+.piocheA{
+    margin-top: 75%;
+    margin-bottom: 10%;
+    margin-left: 25%;
+    height: 25%;
+    width: 40%;
+}
+
+.nomA{
+    color: rgb(188,148,0);
+    /*background-color: rgba(0, 16, 27, 0.8);*/
+    border-radius: 4px;
+}
+
+.pvA{
+    margin-top: 10%;
+    color: rgb(188,148,0);
+    /*background-color: rgba(0, 16, 27, 0.8);*/
+    /*border-radius: 4px;*/
+}
+
+.nomJ{
+    color: rgb(188,148,0);
+    /*background-color: rgba(0, 16, 27, 0.8);*/
+    border-radius: 4px;
+}
+
+.pvJ{
+    margin-top: 10%;
+    color: rgb(188,148,0);
+    /*background-color: rgba(0, 16, 27, 0.8);*/
+    /*border-radius: 4px;*/
+}
+
+
+.nemesis{
+    height: 15%;
+    width: 100%;
+}
+

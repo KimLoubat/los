@@ -1,0 +1,41 @@
+aside{
+    background-color: rgba(0,16,27,0.8);
+    color: rgb(188,148,0);
+    border-radius: 10px;
+    margin-top: 20%;
+}
+
+.divRules {
+    background-color: rgba(0,16,27,0.8);
+    color : rgb(188,148,0);
+    border-radius: 10px;
+    margin-top: 20%;
+    margin-right: 10%;
+    margin-inside: 10%;
+}
+
+article {
+    text-align: left;
+    margin: 7%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 10pt;
+}
+
+a { text-decoration: none;
+    color : rgb(188,148,0);
+}
+
+.asideLogSign {
+    width : 70%;
+    height : 6%;
+    padding : 2%;
+}
+
+.asideTitle {
+    padding : 2%
+}
+
+
+
+

@@ -1,0 +1,55 @@
+
+.deck .card-title{padding: 7px}
+
+/* GENERAL */
+
+
+
+.deck{
+    line-height: 1.5em;
+}
+/*  DECK */
+.submitButton{background-color: beige !important;}
+/*.cardDeck{        background: linear-gradient(to bottom left, #4d2600 0%, #664400 76%);*/
+/*}*/
+.deck .confirmation{text-align: center;}
+.deck .imgDeck{margin-left: 20px}
+.myDeck{
+  margin: 5px;
+  height: 550px;
+  overflow: auto;
+}
+.deck ul{list-style-type: none;
+  padding: 0;
+}
+/* IMAGES */
+.deck .cardTitleImg{text-align: center}
+.deck .profilText{color:white;}
+.deck .card-title{font-size:1em; color:rgb(179, 134, 0) !important;}
+.deck .figure-caption{
+  margin: auto;
+  text-align: center;
+  color:rgb(179, 134, 0) !important;
+}
+.deck.imgCard{
+  cursor: pointer;
+  height: 200px;
+  width: 150px;
+  margin: 5px;
+  background-image: url("https://live.staticflickr.com/7501/15839810880_6d8e9f00db_b.jpg");
+}
+.deck.imgCard:hover{
+  -webkit-box-shadow: 0px 0px 36px -2px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 0px 36px -2px rgba(0,0,0,1);
+  box-shadow: 0px 0px 36px -2px rgba(0,0,0,1);
+}
+
+.cardDeck{
+  color : rgb(188,148,0);
+  background-color: rgba(0, 16, 27, 0.7);
+}
+
+b{
+  color: black;
+  font-size: large;
+}

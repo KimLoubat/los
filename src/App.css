@@ -1,0 +1,50 @@
+.App-header {
+  justify-content: center;
+  text-align: center;
+}
+
+.title {
+  color: darkgoldenrod;
+}
+
+.field-margin {
+  margin-left: 43%;
+  margin-right: 43%;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+
+
+
+/*
+POUR LES CARTES / POUR LA PAG MON DECK
+*/
+
+/*utilisé dans Card et RightSide*/
+/* .hide-button{
+  display: none!important;
+} */
+
+/*utilisé dans RightSide*/
+/* .deck {
+  justify-content: center;
+} */
+
+/*utilisé dans Card*/
+/* .card {
+  width: 250px;
+} */
+
+/*utilisé dans LeftSide et RightSide*/
+/* .title {
+  color: darkgoldenrod;
+  margin-left: 20px;
+} */
+
+/*utilisé dans RightSide*/
+/* .right {
+  background: rgb(26, 43, 43);
+} */

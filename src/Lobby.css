@@ -1,0 +1,38 @@
+.divLobby{
+    background-color: rgba(0, 16, 27, 0.8);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 7%;
+    color: rgb(188,148,0);
+    border-radius: 5px;
+}
+.contentLobby{
+    margin-top: 5%;
+}
+
+.milou{
+    margin-top: 5%;
+    height: 35%;
+    width: 50%;
+}
+
+.adversaire{
+    background-color: rgb(201,171,112);
+    margin-top: 2%;
+    color: black;
+    border-radius: 5px;
+}
+
+.noma{
+    text-align: start;
+}
+
+.butdefi{
+    text-align: end;
+}
+
+.duel{
+    margin-top: 5%;
+    height: 10%;
+    width: 20%;
+}
